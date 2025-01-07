@@ -1,7 +1,8 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seungbin's%20GitHub&fontSize=90" />
 	<p>🪐Contact🪐</p>
- 	<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" /><p>: aspp3666@gmail.com</p>
+ 	<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
+	<p>aspp3666@gmail.com</p>
 	
 </div>
 
