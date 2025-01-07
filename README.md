@@ -30,10 +30,12 @@
 	<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white" />
  </br>
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white" />
 </div>
 <div align=center>
 	<p>☄ Skills ☄</p>
 	<img src="https://img.shields.io/badge/Socket-C93CD7?style=flat&logo=Socket&logoColor=white" />
+
 </div>
 
 <!--
