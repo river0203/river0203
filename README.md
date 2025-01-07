@@ -33,6 +33,10 @@
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	
 </div>
+<div align=center>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyuntae99&layout=compact&theme=radical">
+</div>
+
 
 <!--
 **river0203/river0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
