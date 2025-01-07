@@ -25,6 +25,9 @@
 	<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white" />
 	<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=white" />
 </div>
+<div align=center>
+	<p>☄ Skills ☄</p>
+</div>
 
 <!--
 **river0203/river0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
