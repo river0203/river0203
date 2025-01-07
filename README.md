@@ -27,6 +27,7 @@
 </div>
 <div align=center>
 	<p>☄ Skills ☄</p>
+	<img src="https://img.shields.io/badge/Socket-C93CD7?style=flat&logo=Socket&logoColor=white" />
 </div>
 
 <!--
