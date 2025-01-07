@@ -5,8 +5,6 @@
 <div align=center>
 	<h3>⚙ Tech Stack ⚙</h3>
 	<p>🌌 Languages 🌌</p>
-
- 
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -19,6 +17,10 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
   
 </div>
+</br>
+</br>
+</br>
+
 <div align=center>
 	<p>🌠 Tools 🌠</p>
 </div>
@@ -35,6 +37,10 @@
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	
 </div>
+</br>
+</br>
+</br>
+
 <div align=center>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=river0203&layout=compact&theme=radical">
 </div>
