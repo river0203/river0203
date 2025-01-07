@@ -33,11 +33,6 @@
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	
 </div>
-<div align=center>
-	<p>☄ Skills ☄</p>
-	<img src="https://img.shields.io/badge/Socket-C93CD7?style=flat&logo=Socket&logoColor=white" />
-
-</div>
 
 <!--
 **river0203/river0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
