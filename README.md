@@ -23,6 +23,7 @@
 <div align="center">
 	<img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white" />
 	<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white" />
+	<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=white" />
 </div>
 
 <!--
